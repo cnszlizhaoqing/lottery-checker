@@ -1,0 +1,21 @@
+{
+  "description": "福利彩票中奖查询小程�?,
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "2.25.4",
+  "appid": "你的AppID",
+  "projectname": "lottery-checker",
+  "condition": {},
+  "cloudfunctionRoot": "cloudfunctions/"
+}
